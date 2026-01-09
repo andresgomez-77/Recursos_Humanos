@@ -62,10 +62,6 @@ Proyecto desarrollado siguiendo el curso de **GlobalMentoring**.
 Andrés Felipe Gómez
 
 ````
-## 🔗 3. Conectar ambos repos
-
-```md
 🎨 Frontend del proyecto:
-https://github.com/TU_USUARIO/recursos-humanos-frontend
-```
+https://github.com/andresgomez-77/sistema-recursos-humanos-app.git
 
